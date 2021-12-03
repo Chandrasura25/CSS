@@ -1,0 +1,9 @@
+div{
+    border: 2px dotted lavender;
+    height: 150px;
+    width: 150px;
+    border-radius: 69px;
+    background: #78c1d9;
+    box-shadow: inset -28px -28px 55px #609aae,
+            inset 28px 28px 55px #90e8ff;
+}

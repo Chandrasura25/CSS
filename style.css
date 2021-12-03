@@ -1,0 +1,15 @@
+section{
+    font-size: 20px;
+}
+#box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+   position: relative;
+}
+#inter{
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgb(134, 130, 130);
+   position: absolute;
+}

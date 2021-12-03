@@ -1,0 +1,208 @@
+
+section{
+    background-image: url(/planet/smoky.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-blend-mode: lighten;
+    height: 630px;
+  
+}
+#sun{
+    height: 150px;
+    width: 150px;
+    margin-left:400px ;
+    margin-top: 200px;
+}
+#mercuryspace{
+    border: 2px dotted lavender;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    margin-left: 375px;
+    margin-top:-175px;
+    position: relative;
+    animation-name: mercury;
+    animation-duration:15s;
+    animation-iteration-count: infinite;
+    animation-direction:           normal;
+}
+#mercury{
+    width: 80px;
+    height: 80px;
+    margin-top: -20px;
+  
+}
+@keyframes mercury {
+        0%{
+            transform: rotate(360deg);
+        }
+}
+#venusp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 270px;
+    width: 270px;
+    margin-left: 340px;
+    margin-top:-240px; 
+    position: relative;
+    animation-name: venus;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes venus {
+    0%{
+        transform: rotate(360deg);
+    }
+    
+}
+#venus{
+    width: 70px;
+    height: 70px;
+    margin-top: 70px;
+    margin-left: -28px;
+}
+#earthp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 320px;
+    width: 320px;
+    margin-left: 315px;
+    margin-top:-300px; 
+    position: relative;
+    animation-name: earth;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes earth {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#earth{
+    width: 50px;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: 286px;
+}
+#marsp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 370px;
+    width: 370px;
+    margin-left: 290px;
+    margin-top:-350px; 
+    position: relative;
+    animation-name: mars;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes mars {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#mars{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 293px; 
+}
+#jupiterp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 420px;
+    width: 420px;
+    margin-left: 265px;
+    margin-top:-398px; 
+    position: relative;
+    animation-name: jupiter;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes jupiter {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#jupiter{
+    width: 40px;
+    height: 50px;
+    margin-top: 320px;
+    margin-left: 348px; 
+}
+#saturnp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 470px;
+    width: 470px;
+    margin-left: 240px;
+    margin-top:-450px; 
+    position: relative;
+    animation-name: saturn;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes saturn {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#saturn{
+    width: 70px;
+    height: 70px;
+    margin-top: 300px;
+    margin-left: 420px; 
+}
+#uranusp{
+    border: 2px dotted lavender;
+    border-radius: 50%;
+    height: 510px;
+    width: 510px;
+    margin-left: 220px;
+    margin-top:-493px; 
+    position: relative;
+    animation-name: uranus;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes uranus {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#uranus{
+    width: 80px;
+    height: 80px;
+    margin-top: 300px;
+    margin-left: -20px; 
+}
+#neptunep{
+    border: 2px dotted  lavender;
+    border-radius: 50%;
+    height: 550px;
+    width: 550px;
+    margin-left: 200px;
+    margin-top:-533px; 
+    position: absolute;
+    animation-name: neptune;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-duration: 15s;
+}
+@keyframes neptune {
+    0%{
+        transform: rotate(360deg);
+    }
+}
+#neptune{
+    width: 80px;
+    height: 80px;
+    margin-top: 200px;
+    margin-left: -41px; 
+}

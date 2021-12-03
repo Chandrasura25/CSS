@@ -1,0 +1,36 @@
+section{
+   overflow: hidden;
+}
+.circle1{
+    border: 2px solid red;
+    background-color:red;
+    width: 250px;
+    height: 300px;
+    margin: 100px 300px;
+    border-radius: 100%;
+    mix-blend-mode: overlay;
+    opacity: 90%;
+}
+.circle2{
+    border: 2px solid blue;
+    background-color:blue;
+    width: 250px;
+    height: 300px;
+    margin: 100px 450px;
+    border-radius: 100%;
+    margin-top: -395px;
+    mix-blend-mode: color;
+    opacity: 90%;
+}
+.circle3{
+    border: 2px solid yellow;
+    background-color:yellow;
+    width: 250px;
+    height: 300px;
+    margin: 100px 300px;
+    border-radius: 100%;
+    margin-top: -190px;
+    margin-left: 380px;
+    mix-blend-mode: color;
+  
+}
