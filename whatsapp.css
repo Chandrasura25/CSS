@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#div{
+  border: 2px solid green;
+  width: 100%;
+  height: 200px;
+}
+#path{
+    border: 2px solid green;
+    width: 50%;
+    margin: auto;
+    height: 200px;
+    margin-top: -30px;
+}
+#what{
+    height: 150px;
+}
