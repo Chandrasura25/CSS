@@ -1,0 +1,25 @@
+#fire{
+    background-image: url(./image/fire3.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 5%;
+    /* opacity: o.8; */
+    /* margin: auto; */
+}
+#box{
+    height:620px;
+    width: 60%;
+    background-image:url(./image/New\ folder/fire.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    /* background-attachment: fixed; */
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 7em;
+    margin: auto;
+   font-style: inherit;
+}

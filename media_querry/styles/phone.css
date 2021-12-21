@@ -1,0 +1,11 @@
+
+    .flex-container {
+        flex-direction: column;
+    }
+
+    .flex-container .cont {
+        width: 80%;
+        margin: .1em auto;
+        background-color: green;
+    }
+    

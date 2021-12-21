@@ -1,0 +1,18 @@
+#box{
+    border: 5px dotted navy;
+    height: 200px;
+    width: 40%;
+    margin: 60px;
+    background-color: orchid;
+    background-image:radial-gradient(green 20%, blue 40%) url(/w.PNG);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: top left;
+    /* background-attachment: fixed; */
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 2em;
+    a busy street with dew 
+    a text on fire;
+    parallax effect
+}

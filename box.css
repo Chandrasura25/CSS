@@ -1,0 +1,17 @@
+#box{
+    border: 5px dashed blue;
+    /* height: 30vh; */
+    width: 50%;
+    margin: 50px 20px 30px 400px;
+    /* padding gives space within the box */
+    padding: 20px;
+    font-family: fantasy;
+    border-radius: 30px;
+}
+#log{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    border: dotted crimson;
+    background-color:#C3AA71;
+}

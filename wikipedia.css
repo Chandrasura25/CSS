@@ -1,0 +1,196 @@
+body {
+ overflow-wrap: normal;
+ /* overflow: hidden; */
+}
+
+.wiki{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 100px;
+    transform: translate(-20px,-25px);
+}
+#wikip{
+  align-items: center;
+  height: 200px;
+  width: 220px; 
+  margin: 10%;
+  transform: translate(370px,-10px);
+}
+#W{
+    font-size: 70px;
+    transform: translate(500px,-570px);
+}
+#idi{
+  font-size: 30px;
+  transform: translate(555px,-613px);
+}
+#A{
+  font-size: 70px;
+  transform: translate(664px,-682px);
+}
+#eng{
+  border: thin solid blue;
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(390px,-590px);
+  color:blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#no{
+  font-size: 17px;
+  transform: translate(380px,-590px);
+}
+#esp{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(350px,-630px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#no2{
+  font-size: 17px;
+  transform: translate(340px,-628px);
+}
+#py{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(730px,-633px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#記事{
+  font-size: 17px;
+  transform: translate(730px,-635px);
+}
+#deu{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(750px,-588px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#art{
+  font-size: 17px;
+  transform: translate(735px,-586px);
+}
+#cc{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(360px,-590px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#fle{
+  /* display: flex; */
+}
+#no3{
+  font-size: 17px;
+  transform: translate(363px,-590px);
+}
+#french{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(735px,-632px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#no4{
+  font-size: 17px;
+  transform: translate(735px,-634px);
+}
+#th{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(420px,-610px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#it{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(720px,-655px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#条目{
+  font-size: 17px;
+  transform: translate(370px,-610px);
+}
+#it2{
+  font-size: 17px;
+  transform: translate(700px,-655px);
+}
+#Português{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(420px,-630px);
+  color:blue;
+  border: thin solid blue;
+  width:15vh;
+  height: 3.5vh;
+}
+#no5{
+  font-size: 17px;
+  transform: translate(410px,-633px);
+}
+#Polski{
+  font-size: 20px;
+  font-family: serif;
+  transform: translate(690px,-672px);
+  color:blue;
+  border: thin solid blue;
+  width:10vh;
+  height: 3.5vh;
+}
+#hasel{
+  font-size: 17px;
+  transform: translate(680px,-675px);
+}
+#ser{
+  border: thin solid rgb(142, 142, 143);
+  margin: -650px 360px;
+  width: 63vh;
+  height: 6vh;
+  display: flex;
+}
+#input{
+  width: 58vh;
+  height: 4vh;
+  margin: 5px 5px;
+  border: none;
+  outline: none;
+}
+#box{
+  height: 6vh;
+  width: 8vh;
+  background-color: blue;
+}
+a:hover{
+ background-color: rgb(174, 173, 173);
+}
+#mak{
+  width: 8vh;
+  height: 2vh;
+  border: thin solid blue;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 4px 4px;
+  margin-right: 10px;
+  font-size: 12px;
+}

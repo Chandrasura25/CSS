@@ -1,0 +1,65 @@
+#barbie1 {
+background-image: url(/barbie\ \(1\).png);
+height: 700px;
+width: 1000px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+#barbie2 {
+    background-image: url(/barbie\ \(2\).png);
+    height: 700px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    #barbie3 {
+        background-image: url(/barbie\ \(3\).png);
+        height: 700px;
+        width: 1000px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        }
+#school{
+    position: absolute;
+    color: black;
+    font: italic;
+    font-size: 70px;
+    padding: 20%;
+    margin: 20px;
+}
+#barbie7 {
+    background-image: url(/barbie7.png);
+    height: 700px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    #care{
+        color:forestgreen ;
+        font: times ;
+        font-size: 60px;
+        padding: 20%;
+        margin: 50px; 
+    }
+    #chance{
+        color:rgb(237, 84, 211) ;
+        font: times ;
+        font-size: 40px;
+        padding: 20%;
+        margin: 60px; 
+    }
+    #year{
+        color:crimson ;
+        font: times ;
+        font-size: 60px;
+        padding: 20%;
+        margin: 50px;    
+    }

@@ -1,0 +1,20 @@
+.container{
+    border: thick solid blue;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    perspective: 1000px;
+}
+.container *{
+    background-color: brown;
+    height: 20em;
+    width: 20%;
+}
+.item-3{
+    background-color: chartreuse;
+    transform:translate(100px,80px) ;
+    transform: skew(20deg,10deg);
+    transform: scale(2,1);
+    transform: rotateX(80deg);
+  /* rotate works with perspective */
+}
