@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 0;
     overflow-y: scroll;
 }
 #logo{
@@ -8,8 +10,11 @@ body {
     padding: 60px;
     padding-left: 100px;
 }
+#log{
+    padding-left: -20px;
+}
 #instruction{
-    width: 120vh;
+    width: 110vh;
     height: 100vh;
     background-color:white;
     margin: -170px auto;
