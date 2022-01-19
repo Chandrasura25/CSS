@@ -1,5 +1,8 @@
+body{
+    overflow: hidden;
+}
 #fire{
-    background-image: url(./image/fire3.jpg);
+    background-image: url(/smoky.jpg);
     height: 650px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,7 +22,7 @@
     /* background-attachment: fixed; */
     -webkit-background-clip: text;
     color: transparent;
-    font-size: 7em;
+    font-size: 5.7em;
     margin: auto;
    font-style: inherit;
 }

@@ -1,19 +1,54 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+    overflow-y: scroll;
 }
-#div{
-  border: 2px solid green;
-  width: 100%;
-  height: 200px;
+#logo{
+    height: 20vh;
+    width: 200vh;
+    background-color:#00BFA5;
+    padding: 60px;
+    padding-left: 100px;
 }
-#path{
-    border: 2px solid green;
-    width: 50%;
-    margin: auto;
-    height: 200px;
-    margin-top: -30px;
+#instruction{
+    width: 120vh;
+    height: 100vh;
+    background-color:white;
+    margin: -170px auto;
+    padding-left: 10%;
+    padding-top: 3%;
+   
 }
-#what{
-    height: 150px;
+#code {
+    background-color:white;
+    margin-left: 500px;
+    margin-top: -150px;
+    color: black;
+}
+#png {
+    padding-top: 3px;
+    margin-bottom: -10px;
+}
+#settings{
+    margin-bottom: -10px;
+}
+#ipg{
+  padding: 12px;
+  margin-left: 32px;
+}
+#help {
+    margin-top: -450px; 
+   color: #00BFA5;
+   padding-left: 295px;
+}
+#box{
+    padding-left: 62%;
+    padding-top: 15px;
+}
+/* #sign{
+    padding-left:70%;
+    padding-top:15px; 
+    
+} */
+#wathsappv{
+    margin-top: 40px;
+    margin-left: 160px;
 }
