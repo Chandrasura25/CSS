@@ -4,7 +4,6 @@
     width: 100%;
     height: 550px;
     background-repeat: repeat;
-    /* animation-name: backg; */
     animation-duration: 1s;
     animation-iteration-count: infinite;
     animation-fill-mode: backwards;
